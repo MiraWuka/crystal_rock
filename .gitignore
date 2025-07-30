@@ -1,0 +1,17 @@
+# Crystal build artifacts
+*.dwarf
+*.o
+*.a
+*.so
+*.gcno
+*.gcda
+*.cr
+*.dSYM/
+.crystal/
+
+# Binaries
+rainbow
+rainbow-debug
+
+# OS/macOS stuff
+.DS_Store
