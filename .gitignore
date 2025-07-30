@@ -5,7 +5,6 @@
 *.so
 *.gcno
 *.gcda
-*.cr
 *.dSYM/
 .crystal/
 
